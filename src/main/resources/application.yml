@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: rollover
+
+server:
+  port: 8081
